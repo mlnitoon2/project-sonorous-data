@@ -25,7 +25,7 @@
 		},
 		{
 			"title": "The Daily Monster: 01/14/2026",
-			"body":  "In today's news, an unusual incident occurred in the containment facility. Several security cameras briefly went offline, during which the mask-like monster could not be located.\n\nMonster handlers insist there is no cause for concern:\n\n\"We have double-checked the containment protocols. There is absolutely no way it could have left its chamber,\" one official stated. \n\nHowever, some staff members report hearing faint, irregular noises coming from areas it should not have access to. The investigation into the creature's behavior, as well as its connection to the signal-emitting island, continues.\n\nOfficials have requested that the public remain calm and not attempt to approach or interact with the monster under any circumstances.\n\n©2026 The Daily Monster.",
+			"body":  "In today's news, the mask-like monster has escaped containment at the facility. Surviving officials report that the creature emitted a deafening droning noise, estimated at nearly 500 decibels, while breaking free.\n\nMultiple handlers and staff members have been hospitalized due to the incident. Higher-level officials are urging all citizens to remain indoors and exercise extreme caution. If the monster is encountered, individuals are advised to hide immediately.\n\nIt is currently unknown whether the creature will actively attack citizens. Authorities emphasize the importance of staying safe and avoiding the monster at all costs. Investigations are ongoing, and further updates will be provided as information becomes available.\n\n©2026 The Daily Monster.",
 			"date_created": 1768413600,
 			"date_expires": 1768500000
 		},
@@ -55,15 +55,75 @@
 		},
 		{
 			"title": "The Daily Monster: 01/19/2026",
-			"body": "",
+			"body": "In today's news, we share a sad story: one of the handlers injured by the mask monster has sadly passed away peacefully in his sleep due to the injuries sustained. Doctors confirm that he had been unconscious ever since the attack, and did not feel any pain. This is a tragic loss, and we ask all readers to keep the other hospitalized handlers in your thoughts and prayers.\n\nOn another note, we have reached an agreement allowing us to report on the mask monster — but only if we pay the higher-ups $100 per week. This places a strain on our limited budget, as newspaper sales do not generate much revenue. Even a small donation helps; if you can, please consider contributing at https://thedailymonster.deedee/donate.\n\nIn brighter news, in just 10 days we have grown to 7,000 confirmed readers! We sincerely thank all of you for reading, whether you've been with us from the start or are just joining today.\n\n©2026 The Daily Monster.",
 			"date_created": 1768845600,
 			"date_expires": 1768932000,
 		},
 		{
 			"title": "The Daily Monster: 01/20/2026",
-			"body": "",
+			"body": "In today's news, the red popsicle monster has finally been captured. The event started when a reckless baby monster ran up and attempted to eat it. The popsicle monster fought back, freezing the baby monster in the process. Fortunately, the baby monster was released a few hours later without injuries. \n\nThis incident, however, allowed handlers to approach and safely capture the popsicle monster. Interestingly, the creature's cries and wails appear to have attracted the previously escaped mask monster, allowing it to be captured as well. Researchers report that the two monsters will be kept together in containment, as it is believed that their previous violent behavior was due to the stress of being separated.\n\nIn other news, residents of Crystal Hollow reported an unusual sighting today: a flock of luminescent birds formed an enormous glowing spiral in the sky for nearly ten minutes. Scientists are investigating the phenomenon, though so far no explanation has been confirmed.\n\n©2026 The Daily Monster.",
 			"date_created": 1768932000,
 			"date_expires": 1769018400,
+		},
+		{
+			"title": "The Daily Monster: 01/21/2026",
+			"body": "In today's news, we take a break from monster coverage to focus on something a little lighter. Residents of Amber Falls were surprised to find hundreds of tiny glowing mushrooms sprouting overnight across the main square. Local botanists report that the mushrooms are harmless, but their unusual rapid growth has sparked curiosity and delight among the townsfolk.\n\nAdditionally, the annual Crystal Festival is coming up next week! Citizens are encouraged to participate in the festivities, which will include music, food, and a special light show. Early reports suggest it will be the brightest festival yet.\n\n©2026 The Daily Monster.",
+			"date_created": 1769018400,
+			"date_expires": 1769104800,
+		},
+		{
+			"title": "The Daily Monster: 01/22/2026",
+			"body": "In today's news, residents of Echo Valley reported hearing a series of mysterious ticking sounds echoing through the hills in the early hours of the morning. The origin of the sound remains unknown, and attempts by local authorities to locate the source have so far been unsuccessful.\n\nScientists have promised to conduct further investigations and urge residents to remain calm while the matter is being studied.\n\nStay tuned for updates as more information becomes available.\n\n©2026 The Daily Monster.",
+			"date_created": 1769104800,
+			"date_expires": 1769191200,
+		},
+		{
+			"title": "The Daily Monster: 01/23/2026",
+			"body": "In today's news, the handlers who were injured during the mask monster incident have finally been discharged from the hospital after over a week of treatment and recovery. Medical staff report that all handlers are in stable condition and showing remarkable resilience following their ordeal.\n\nAuthorities commend the handlers for their bravery and dedication, noting that their swift actions were crucial in safely capturing the mask monster. The public is encouraged to continue supporting our local heroes as they readjust to their normal duties.\n\n©2026 The Daily Monster.",
+			"date_created": 1769191200,
+			"date_expires": 1769277600,
+		},
+		{
+			"title": "The Daily Monster: 01/24/2026",
+			"body": "In today's news, the long-awaited annual Crystal Festival has officially begun in Amber Falls, and residents are enjoying every moment! The festival kicked off with the main square filled with the hundreds of glowing mushrooms that sprouted overnight, casting a beautiful light over the town. Young monsters ran among the lights, laughing and pointing at the shimmering colors, while families strolled past vendor stalls offering everything from fresh pastries to handcrafted trinkets.\n\nMusicians performed on multiple stages, playing a mix of traditional and modern tunes that got festival-goers dancing in the streets. Food stalls offered a variety of delicious treats, including sparkling lemonade, crystal-shaped candies, and seasonal pastries. Street performers added to the excitement with juggling, acrobatics, and puppet shows, delighting audiences of all ages.\n\nAs evening approached, visitors are eagerly anticipating the highlight of the festival: the grand light show. Town organizers promise a dazzling display that will illuminate the entire square in brilliant colors, reflecting off the glowing mushrooms and the crystalline decorations set up throughout the town. Early reports indicate that attendance has already surpassed expectations, and the festival is being hailed as one of the most vibrant celebrations in recent memory.\n\nThe Crystal Festival is expected to continue throughout the week, with scheduled events including art exhibitions, music workshops, and interactive games for children. Residents and visitors alike are encouraged to fully enjoy the festivities, capture memories, and celebrate the magic and beauty of Amber Falls.\n\n©2026 The Daily Monster.",
+			"date_created": 1769277600,
+			"date_expires": 1769364000,
+		},
+		{
+			"title": "The Daily Monster: 01/25/2026",
+			"body": "In today's news, the Crystal Festival continues in Amber Falls with a focus on creativity: the annual Art Exhibition has officially opened! Local artists, both young and old, have displayed a stunning variety of works throughout the festival grounds, including paintings, sculptures, and interactive installations. Festival-goers are marveling at the vibrant colors, intricate designs, and imaginative creations on display.\n\nWorkshops have been set up for attendees to try their hand at creating their own artwork, from painting glowing mushrooms to crafting miniature crystal sculptures. Children and adults alike are participating enthusiastically, learning techniques from skilled local artists and sharing in the fun of artistic expression.\n\nJudges from the town council and invited guest artists are reviewing submissions for this year's Art Exhibition awards, which will be presented at the festival’s closing ceremony. Attendees have been encouraged to vote for their favorite pieces in the People’s Choice category, adding an interactive element to the event.\n\nLive music continues to accompany the festival, complementing the visual beauty of the art displays. Food and craft stalls remain open, allowing visitors to enjoy treats and souvenirs as they explore the exhibition. The atmosphere is vibrant and joyful, with Amber Falls' streets bustling with laughter, conversation, and celebration.\n\nResidents and visitors are reminded that the Art Exhibition is open throughout the week, providing plenty of opportunities to admire, participate, and take part in the town’s creative spirit.\n\n©2026 The Daily Monster.",
+			"date_created": 1769364000,
+			"date_expires": 1769450400,
+		},
+		{
+			"title": "The Daily Monster: 01/26/2026",
+			"body": "In today's news, the Crystal Festival continues with the opening of the much-anticipated Music Workshop! Attendees have the opportunity to learn instruments, experiment with sound, and even compose their own short pieces under the guidance of local musicians. The workshop has been met with excitement from both young and adult festival-goers, providing a lively and engaging experience for all.\n\nIn a more unusual story, a mischievous oOdu was spotted causing chaos at one of the vendor stations, specifically a triturtouds stall, while the vendor stepped away. The creature made quite a mess before being discovered, and authorities immediately arrested the oOdu following the incident. Fortunately, no one was injured, and the vendor was able to resume business shortly afterward.\n\nDespite the brief interruption, the Music Workshop has continued smoothly, and festival-goers are encouraged to participate and enjoy the musical festivities. The Crystal Festival remains a vibrant celebration of art, music, and community in Amber Falls.\n\n©2026 The Daily Monster.",
+			"date_created": 1769450400,
+			"date_expires": 1769536800,
+		},
+		{
+			"title": "The Daily Monster: 01/27/2026",
+			"body": "In today's news, the Crystal Festival in Amber Falls reached its grand finale! Crowds gathered in the main square to witness the final parade, featuring floats adorned with sparkling crystals, colorful banners, and performers in elaborate costumes. Young monsters waved festival flags, while families enjoyed the music and energy that filled the streets.\n\nThe festival concluded with a spectacular fireworks display, perfectly synchronized to live music performed by local musicians. Festival-goers were treated to dazzling lights reflecting off the glowing mushrooms, creating a magical atmosphere that left everyone in awe.\n\nSpecial awards were presented to outstanding participants in the Art Exhibition and Music Workshop, celebrating creativity, skill, and spirit. Citizens and visitors alike were encouraged to continue enjoying the festivities until the very end, capturing memories and sharing in the joy of Amber Falls.\n\nWith the festival officially concluded, organizers expressed their gratitude to everyone who attended and helped make this year's celebration the brightest and most memorable yet.\n\n©2026 The Daily Monster.",
+			"date_created": 1769536800,
+			"date_expires": 1769623200,
+		},
+		{
+			"title": "The Daily Monster: 01/28/2026",
+			"body": "",
+			"date_created": 1769623200,
+			"date_expires": 1769709600,
+		},
+		{
+			"title": "The Daily Monster: 01/29/2026",
+			"body": "",
+			"date_created": 1769709600,
+			"date_expires": 1769796000,
+		},
+		{
+			"title": "The Daily Monster: 01/30/2026",
+			"body": "",
+			"date_created": 1769796000,
+			"date_expires": 1769882400,
 		},
 		{
 			"title": "Welcome to Project Sonorous!",
