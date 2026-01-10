@@ -109,21 +109,33 @@
 		},
 		{
 			"title": "The Daily Monster: 01/28/2026",
-			"body": "",
+			"body": "In today's news, a new rival newspaper to The Daily Monster has released its first issue. Called \"Monster Gazette\", this newspaper supposedly feeds you \"The truth\".\n\nTheir first issue was, unsurprisingly, attacking US, calling us liars. An exact quote of their first issue: \"It won't tell you about the signal-emitting island that has been influencing the creatures in our world for years. That’s because the Daily Monster is a lie.\". We are not sure who is the editor or owner of this newspaper, but it appears they have only read our most recent issues. Our first 10 issues were mostly about this \"island\", and the mask monster.\nWe ask our readers not to support this newspaper.\n\n©2026 The Daily Monster.",
 			"date_created": 1769623200,
 			"date_expires": 1769709600
 		},
 		{
 			"title": "The Daily Monster: 01/29/2026",
-			"body": "",
+			"body": "After a busy week of celebrations and recovery from recent events, residents of Crystal Hollow and surrounding areas are enjoying a return to normalcy. Families are visiting the newly blossoming glowing mushrooms in Amber Falls, and the annual Crystal Festival continues to inspire wonder and delight.\n\n©2026 The Daily Monster.",
 			"date_created": 1769709600,
 			"date_expires": 1769796000
 		},
 		{
 			"title": "The Daily Monster: 01/30/2026",
-			"body": "",
+			"body": "In today's news, Echo Valley residents are still discussing the crime that occurred last week involving the tampering of the local signal towers. Authorities have released a full report confirming that the suspect acted alone and caused minor damage, which has now been repaired.\n\nLocal citizens are commended for reporting suspicious activity quickly, helping authorities resolve the situation before it escalated. Community leaders are urging residents to remain vigilant and to continue keeping an eye on the hills, where unusual ticking sounds have been occasionally reported in the past.\n\nIn lighter news, local bakeries are introducing special Crystal Festival-themed pastries to celebrate the recent festivities in Amber Falls. Families and children are encouraged to enjoy these treats while reminiscing about the week-long celebrations.\n\n©2026 The Daily Monster.",
 			"date_created": 1769796000,
 			"date_expires": 1769882400
+		},
+		{
+			"title": "Monster Gazette – Issue #1 (01/28/2026)",
+			"body": "Welcome to our new newspaper. Here, we will feed you the TRUTH, not lies, not safe stories, not sugar-coated fluff.\n\n The Daily Monster may tell you about glowing mushrooms, art festivals, and music workshops, but it won't tell you the things that matter. It won't tell you about monsters that escape containment, handlers who are injured or worse, or the secret experiments that authorities don’t want you to know about. It won't tell you about the signal-emitting island that has been influencing the creatures in our world for years. That's because the Daily Monster is a lie.",
+			"date_created": 1769623200,
+			"date_expires": 1769709600
+		},
+				{
+			"title": "Monster Gazette – Issue #2 (01/29/2026)",
+			"body": "So, the Daily Monster has spoken. They ask their readers not to support us, claiming we haven’t covered their first 10 issues. But let’s be honest—how many times have they actually told you what’s happening behind the scenes? Mask monsters, signal-emitting islands, mysterious disappearances… they’ve only given you the stories they want you to hear. We are here to feed you the TRUTH, no matter who protests.",
+			"date_created": 1769709600,
+			"date_expires": 1769796000
 		},
 		{
 			"title": "Welcome to Project Sonorous!",
