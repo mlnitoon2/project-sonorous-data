@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "sounds.json": "sounds"
+  },
+  {
+    "basicinfo.json": "basicinfo"
+  },
+  {
+    "monsterinfo.json": "monsterinfo"
+  },
+  {
+    "songinfo.son": "songinfo"
+  }
+]
