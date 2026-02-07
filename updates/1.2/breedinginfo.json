@@ -1,1 +1,1 @@
-[{"result":"Z05","inputs":["Z02","Z03"]},{"result":"Z06","inputs":["Z01","Z02"]}]
+{"entries":[{"key":1,"value":{"entries":[{"key":"result","value":"Z05"},{"key":"inputs","value":{"entries":[{"key":1,"value":"Z02"},{"key":2,"value":"Z03"}],"__type":"table"}}],"__type":"table"}},{"key":2,"value":{"entries":[{"key":"result","value":"Z06"},{"key":"inputs","value":{"entries":[{"key":1,"value":"Z01"},{"key":2,"value":"Z02"}],"__type":"table"}}],"__type":"table"}}],"__type":"table"}
