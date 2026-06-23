@@ -1,0 +1,81 @@
+Singles:
+
+Fluttershy - (Kindness) - Ocarina
+Applejack - (Honesty) - Banjo
+Pinkie Pie - (Laughter) - Party horn (transition sound)
+Rarity - (Generosity) - Glockenspiel
+Twilight Sparkle - (Magic) - Handpan
+Rainbow Dash - (Loyalty) - Electric guitar
+Blank Monster - (Blank) - Bass
+
+Doubles:
+
+Tree Hugger - (Kindness, Honesty) - Wooden flute
+Cheese Sandwich - (Kindness, Laughter) - Accordian
+Lily Valley - (Kindness, Generosity) - Wind chimes
+Starlight Glimmer - (Kindness, Magic) - Kalimba
+Zecora - (Kindness, Loyalty) - Cauldron bubbling sound effect (sampled)
+Maud Pie - (Honesty, Laughter) - Pickaxe sound effect (sampled)
+tba - (Honesty, Generosity)
+tba - (Honesty, Magic)
+Apple Bloom - (Honesty, Loyalty) - Hoof stomping sound effect (sampled)
+Derpy Hooves - (Laughter, Generosity) - Slide whistle
+tba - (Laughter, Magic)
+Scootaloo - (Laughter, Loyalty) - Ukelele
+Sweetie Belle - (Generosity, Magic) - Toy Piano
+tba - (Generosity, Loyalty)
+Spike - (Magic, Loyalty) - Pyrophone
+
+Triples:
+
+tba - (Kindness, Honesty, Laughter)
+tba - (Kindness, Honesty, Generosity)
+tba - (Kindness, Honesty, Magic)
+tba - (Kindness, Honesty, Loyalty)
+tba - (Kindness, Laughter, Generosity)
+tba - (Kindness, Laughter, Magic)
+tba - (Kindness, Laughter, Loyalty)
+tba - (Kindness, Generosity, Magic)
+tba - (Kindness, Generosity, Loyalty)
+tba - (Kindness, Magic, Loyalty)
+tba - (Honesty, Laughter, Generosity)
+tba - (Honesty, Laughter, Magic)
+tba - (Honesty, Laughter, Loyalty)
+tba - (Honesty, Generosity, Magic)
+Big McIntosh - (Honesty, Generosity, Loyalty) - Double Bass
+tba - (Honesty, Magic, Loyalty)
+tba - (Laughter, Generosity, Magic)
+tba - (Laughter, Generosity, Loyalty)
+tba - (Laughter, Magic, Loyalty)
+tba - (Generosity, Magic, Loyalty)
+
+Quadruples:
+
+tba - (Kindness, Honesty, Laughter, Generosity)
+tba - (Kindness, Honesty, Laughter, Magic)
+tba - (Kindness, Honesty, Laughter, Loyalty)
+Princess Luna - (Kindness, Honesty, Generosity, Magic) - Harp
+tba - (Kindness, Honesty, Generosity, Loyalty)
+tba - (Kindness, Honesty, Magic, Loyalty)
+tba - (Kindness, Laughter, Generosity, Magic)
+tba - (Kindness, Laughter, Generosity, Loyalty)
+tba - (Kindness, Laughter, Magic, Loyalty)
+tba - (Kindness, Generosity, Magic, Loyalty)
+tba - (Honesty, Laughter, Generosity, Magic)
+tba - (Honesty, Laughter, Generosity, Loyalty)
+tba - (Honesty, Laughter, Magic, Loyalty)
+tba - (Honesty, Generosity, Magic, Loyalty)
+tba - (Laughter, Generosity, Magic, Loyalty)
+
+Quintuples:
+
+tba - (Kindness, Honesty, Laughter, Generosity, Magic)
+tba - (Kindness, Honesty, Laughter, Generosity, Loyalty)
+tba - (Kindness, Honesty, Laughter, Magic, Loyalty)
+tba - (Kindness, Honesty, Generosity, Magic, Loyalty)
+tba - (Kindness, Laughter, Generosity, Magic, Loyalty)
+tba - (Honesty, Laughter, Generosity, Magic, Loyalty)
+
+Sextuple:
+
+Princess Celestia - (Kindness, Honesty, Laughter, Generosity, Magic, Loyalty) - Electric synth (like Blow't)
