@@ -16,14 +16,14 @@ Lily Valley - (Kindness, Generosity) - Wind chimes
 Starlight Glimmer - (Kindness, Magic) - Kalimba
 Zecora - (Kindness, Loyalty) - Cauldron bubbling sound effect (sampled)
 Maud Pie - (Honesty, Laughter) - Pickaxe sound effect (sampled)
-tba - (Honesty, Generosity)
-tba - (Honesty, Magic)
+Granny Smith - (Honesty, Generosity) - Musical spoons
+Sunburst - (Honesty, Magic) - Glass harp
 Apple Bloom - (Honesty, Loyalty) - Hoof stomping sound effect (sampled)
 Derpy Hooves - (Laughter, Generosity) - Slide whistle
-tba - (Laughter, Magic)
+Party Favor - (Laughter, Magic) - Kazoo
 Scootaloo - (Laughter, Loyalty) - Ukelele
 Sweetie Belle - (Generosity, Magic) - Toy Piano
-tba - (Generosity, Loyalty)
+Fancy Pants - (Generosity, Loyalty) - Harpsichord
 Spike - (Magic, Loyalty) - Pyrophone
 
 Triples:
