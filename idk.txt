@@ -28,26 +28,26 @@ Spike - (Magic, Loyalty) - Pyrophone
 
 Triples:
 
-tba - (Kindness, Honesty, Laughter)
-tba - (Kindness, Honesty, Generosity)
-tba - (Kindness, Honesty, Magic)
-tba - (Kindness, Honesty, Loyalty)
-tba - (Kindness, Laughter, Generosity)
-tba - (Kindness, Laughter, Magic)
-tba - (Kindness, Laughter, Loyalty)
-tba - (Kindness, Generosity, Magic)
-tba - (Kindness, Generosity, Loyalty)
-tba - (Kindness, Magic, Loyalty)
-tba - (Honesty, Laughter, Generosity)
-tba - (Honesty, Laughter, Magic)
-tba - (Honesty, Laughter, Loyalty)
-tba - (Honesty, Generosity, Magic)
+Cranky Doodle - (Kindness, Honesty, Laughter) - Harmonica
+Cheerilee - (Kindness, Honesty, Generosity) - Xylophone
+Minuette - (Kindness, Honesty, Magic) - Music box
+Bon Bon - (Kindness, Honesty, Loyalty) - Pan flute
+Sassy Saddles - (Kindness, Laughter, Generosity) - Tambourine
+Cloudy Quartz - (Kindness, Laughter, Magic) - Rainstick
+Lyra Heartstrings - (Kindness, Laughter, Loyalty) - Lyre
+Golden Harvest - (Kindness, Generosity, Magic) - Ghatam
+Aloe - (Kindness, Generosity, Loyalty) - Waterphone
+Amethyst Star - (Kindness, Magic, Loyalty) - Glass Harmonica
+Trouble Shoes - (Honesty, Laughter, Generosity) - Jaw harp
+Trixie - (Honesty, Laughter, Magic) - Musical saw
+Braeburn - (Honesty, Laughter, Loyalty) - Cuica
+Lemon Hearts - (Honesty, Generosity, Magic) - Theremin
 Big McIntosh - (Honesty, Generosity, Loyalty) - Double Bass
-tba - (Honesty, Magic, Loyalty)
-tba - (Laughter, Generosity, Magic)
-tba - (Laughter, Generosity, Loyalty)
-tba - (Laughter, Magic, Loyalty)
-tba - (Generosity, Magic, Loyalty)
+Snails - (Honesty, Magic, Loyalty) - Slapstick
+Rose - (Laughter, Generosity, Magic) - Flexatone
+Daisy - (Laughter, Generosity, Loyalty) - Vibraslap
+Snips - (Laughter, Magic, Loyalty) - Scissor cutting (sampled)
+Diamond Tiara - (Generosity, Magic, Loyalty) - Final
 
 Quadruples:
 
