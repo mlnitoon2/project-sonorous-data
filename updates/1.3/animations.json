@@ -15,5 +15,12 @@
     "location": "ChaSisIdle.json",
     "type": "idle",
     "id": "Z07"
+  },
+  {
+    "location": "Annie1.json",
+    "type": "song",
+    "id": "Z09",
+    "island": 5,
+    "track": 1
   }
 ]
