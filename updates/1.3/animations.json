@@ -1,0 +1,14 @@
+[
+  {
+    "location": "BoxterIdle.json",
+    "type": "idle",
+    "id": "Z19"
+  },
+  {
+    "location": "BoxterSing.json",
+    "type": "song",
+    "id": "Z19",
+    "island": 5,
+    "track": 1
+  },
+]
