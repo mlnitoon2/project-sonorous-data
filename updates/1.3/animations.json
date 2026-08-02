@@ -10,5 +10,10 @@
     "id": "Z19",
     "island": 5,
     "track": 1
-  }
+  },
+  {
+    "location": "ChaSisIdle.json",
+    "type": "idle",
+    "id": "Z07"
+  },
 ]
