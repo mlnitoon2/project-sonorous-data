@@ -18,26 +18,26 @@ jobs:
         run: |
           echo "Starting full repository purge..."
           
-          # Get a list of every tracked file in the repo
-          git ls-files | while read file; do
+          # IFS= and -r are critical here to handle spaces and special characters in file names
+          git ls-files | while IFS= read -r file; do
             
             # Skip GitHub-specific files since they aren't hosted on jsDelivr
             if [[ "$file" == .github/* ]]; then
               continue
             fi
             
-            # Optional: Skip non-data files if you only care about JSONs
-            # if [[ "$file" != *.json ]]; then
-            #   continue
-            # fi
+            # URL encode spaces (%20) so curl doesn't break
+            encoded_file=$(echo "$file" | sed 's/ /%20/g')
 
-            echo "Purging: $file"
+            echo -n "Purging: $encoded_file ... "
             
-            # Hit the purge API for the specific file
-            curl -s "https://purge.jsdelivr.net/gh/mlnitoon2/project-sonorous-data@main/$file" > /dev/null
+            # Fetch the HTTP status code (200 = success, 429 = rate limited, 404 = not found)
+            STATUS=$(curl -s -o /dev/null -w "%{http_code}" "https://purge.jsdelivr.net/gh/mlnitoon2/project-sonorous-data@main/$encoded_file")
             
-            # Sleep for 0.2 seconds to avoid hitting jsDelivr's rate limiter
-            sleep 0.2
+            echo "HTTP $STATUS"
+            
+            # Sleep for 0.3 seconds to heavily avoid jsDelivr's rate limiter
+            sleep 0.3
           done
           
           echo "Full purge complete!"
