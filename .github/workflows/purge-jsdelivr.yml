@@ -3,7 +3,7 @@ name: 'Purge jsDelivr Cache'
 on:
   push:
     branches:
-      - main # or your default branch name
+      - main
 
 jobs:
   purge:
@@ -14,8 +14,30 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Run jsDelivr-Purge
-        uses: List-KR/jsdelivr-purge@7.0.1
-        with:
-          urls: |
-            https://cdn.jsdelivr.net/gh/mlnitoon2/project-sonorous-data@main/
+      - name: Purge All Files from jsDelivr
+        run: |
+          echo "Starting full repository purge..."
+          
+          # Get a list of every tracked file in the repo
+          git ls-files | while read file; do
+            
+            # Skip GitHub-specific files since they aren't hosted on jsDelivr
+            if [[ "$file" == .github/* ]]; then
+              continue
+            fi
+            
+            # Optional: Skip non-data files if you only care about JSONs
+            # if [[ "$file" != *.json ]]; then
+            #   continue
+            # fi
+
+            echo "Purging: $file"
+            
+            # Hit the purge API for the specific file
+            curl -s "https://purge.jsdelivr.net/gh/mlnitoon2/project-sonorous-data@main/$file" > /dev/null
+            
+            # Sleep for 0.2 seconds to avoid hitting jsDelivr's rate limiter
+            sleep 0.2
+          done
+          
+          echo "Full purge complete!"
