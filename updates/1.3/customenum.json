@@ -1,0 +1,1 @@
+{"entries":[{"key":"MonsterType","value":{"entries":[{"key":"NewAnim","value":3},{"key":"Static","value":1},{"key":"OldAnim","value":2}],"__type":"table"}},{"key":"IslandType","value":{"entries":[{"key":"Breeding","value":4},{"key":"Zapping","value":2},{"key":"Compiler","value":1},{"key":"Teleport","value":3}],"__type":"table"}}],"__type":"table"}
