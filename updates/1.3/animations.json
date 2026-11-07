@@ -22,6 +22,37 @@
     "id": "Z09",
     "island": 5,
     "track": 1
-  }
+  },
+  {
+    "location": "LockrockIdle.json",
+    "type": "idle",
+    "id": "F"
+  },
+  {
+    "location": "LockrockSleep.json",
+    "type": "sleep",
+    "id": "F"
+  },
+  {
+    "location": "Lockrock1.json",
+    "type": "song",
+    "id": "F",
+    "island": 4,
+    "track": 1
+  },
+  {
+    "location": "Lockrock2.json",
+    "type": "song",
+    "id": "F",
+    "island": 4,
+    "track": 2
+  },
+  {
+    "location": "Lockrock3.json",
+    "type": "song",
+    "id": "F",
+    "island": 4,
+    "track": 3
+  },
 ]
  
