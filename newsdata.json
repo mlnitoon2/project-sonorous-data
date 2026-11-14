@@ -18,6 +18,14 @@
 			"date_expires": 1795824000
 		},
 		{
+			"title": "🏳️‍⚧️ Happy National Transgender Awareness Week 🏳️‍⚧️",
+			"body": "Transgender Awareness Week is a time to recognize and celebrate transgender people and to reflect on the ongoing work for safety, dignity, and equality. To mark the week, here's a free costume: HurdyFreezy (Transgender Awareness Week 2026).",
+			"reward": {"type": "costume", "id": 7},
+			"date_created": 1794549600,
+			"date_expires": 1795068000,
+			"dev_only": true
+		},
+		{
 			"title": "KEY ISLAND OUT OF BETA!",
 			"body":"Haha, I tricked you! But seriously, when will it be out of beta..?\n\nWell, it's actually pretty simple. When we finish drawing and voice acting all the monsters. Hopefully, it'll be out of beta before 2027.",
 			"date_created": 1794016800,
