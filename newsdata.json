@@ -1,5 +1,20 @@
 	[
 		{
+			"title": "🏳️‍⚧️ Happy National Transgender Awareness Week 🏳️‍⚧️",
+			"body": "Transgender Awareness Week is a time to recognize and celebrate transgender people and to reflect on the ongoing work for safety, dignity, and equality. To mark the week, here's a free costume: HurdyFreezy (Transgender Awareness Week 2026).",
+			"rewards": [{"type": "costume", "id": 7}],
+			"date_created": 1794549600,
+			"date_expires": 19,
+			"da": 1795068000,
+			"dev_only": true
+		},
+		{
+			"title": "KEY ISLAND OUT OF BETA!",
+			"body":"Haha, I tricked you! But seriously, when will it be out of beta..?\n\nWell, it's actually pretty simple. When we finish drawing and voice acting all the monsters. Hopefully, it'll be out of beta before 2027.",
+			"date_created": 1794016800,
+			"date_expires": 1798178400
+		},
+		{
 			"title": "Update 1.2.5 now out!",
 			"body":"New seasonal shop tab in the shop! 1 new monster COSTUME or decoration every day (expires 2 days later). Last item releases Nov 1st!",
 			"date_created": 1792803600,
@@ -16,21 +31,6 @@
 			"body": "Celebrate Kislev with the new \"Chislev\" monster on Sweetdreams Palace! Contrary to popular belief, Fhoold'juu ISN'T the Sweetdreams Palace seasonal! Available for 2 weeks only (all future seasonal events will last 2 weeks), Chislev plays a beautiful lyre sound.\n\nTITLES:\nCheck out the brand new title section in the shop! Over 20 available titles (and hundreds more to come in the coming months) to purchase using currency. There are also a few LIMITED TIME titles available to celebrate Kislev! Customize your title in settings; titles are visible to friends.",
 			"date_created": 1794700800,
 			"date_expires": 1795759200
-		},
-		{
-			"title": "🏳️‍⚧️ Happy National Transgender Awareness Week 🏳️‍⚧️",
-			"body": "Transgender Awareness Week is a time to recognize and celebrate transgender people and to reflect on the ongoing work for safety, dignity, and equality. To mark the week, here's a free costume: HurdyFreezy (Transgender Awareness Week 2026).",
-			"rewards": [{"type": "costume", "id": 7}],
-			"date_created": 1794549600,
-			"date_expires": 19,
-			"da": 1795068000,
-			"dev_only": true
-		},
-		{
-			"title": "KEY ISLAND OUT OF BETA!",
-			"body":"Haha, I tricked you! But seriously, when will it be out of beta..?\n\nWell, it's actually pretty simple. When we finish drawing and voice acting all the monsters. Hopefully, it'll be out of beta before 2027.",
-			"date_created": 1794016800,
-			"date_expires": 1798178400
 		},
 		{
 			"title": "umm oops sorry (Sweetdreams Palace)",
