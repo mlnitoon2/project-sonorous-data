@@ -53,6 +53,16 @@
     "id": "F",
     "island": 4,
     "track": 3
-  }
+  },
+  {
+    "location": "FlohrTriIdle.json",
+    "type": "idle",
+    "id": "Z04"
+  },
+  {
+    "location": "FlohrTriSleep.json",
+    "type": "sleep",
+    "id": "Z04"
+  },
 ]
  
