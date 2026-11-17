@@ -63,6 +63,37 @@
     "location": "FlohrTriSleep.json",
     "type": "sleep",
     "id": "Z04"
+  },
+  {
+    "location": "Poeq12.json",
+    "type": "song",
+    "id": "EF",
+    "island": 4,
+    "track": 1
+  },
+  {
+    "location": "Poeq12.json",
+    "type": "song",
+    "id": "EF",
+    "island": 4,
+    "track": 2
+  },
+  {
+    "location": "Poeq3.json",
+    "type": "song",
+    "id": "EF",
+    "island": 4,
+    "track": 3
+  },
+  {
+    "location": "PoeqIdle.json",
+    "type": "idle",
+    "id": "EF"
+  },
+  {
+    "location": "PoeqSleep.json",
+    "type": "sleep",
+    "id": "EF"
   }
 ]
  
