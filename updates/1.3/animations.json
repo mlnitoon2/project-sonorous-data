@@ -111,11 +111,6 @@
     "location": "RFSleep.json",
     "type": "sleep",
     "id": "RAREFURCORN"
-  },
-  {
-    "location": "Monkeylust.json",
-    "type": "idle",
-    "id": "BLANK"
   }
 ]
  
