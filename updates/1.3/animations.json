@@ -94,6 +94,23 @@
     "location": "PoeqSleep.json",
     "type": "sleep",
     "id": "EF"
+  },
+  {
+    "location": "RF1.json",
+    "type": "song",
+    "id": "RAREFURCORN",
+    "island": 1,
+    "track": 1
+  },
+  {
+    "location": "RFIdle.json",
+    "type": "idle",
+    "id": "RAREFURCORN"
+  },
+  {
+    "location": "RFSleep.json",
+    "type": "sleep",
+    "id": "RAREFURCORN"
   }
 ]
  
