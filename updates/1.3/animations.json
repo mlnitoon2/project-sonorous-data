@@ -111,6 +111,11 @@
     "location": "RFSleep.json",
     "type": "sleep",
     "id": "RAREFURCORN"
-  }
+  },
+  {
+    "location": "TuBoogulIdle.json",
+    "type": "idle",
+    "id": "AB"
+  },
 ]
  
